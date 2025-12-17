@@ -1,0 +1,58 @@
+.container
+{
+    background-image: url(rest2.jpg) ;
+    height: 900px;
+    width: 1800px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    padding-right: 5px;
+    background-size: cover;
+    border: 3px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:sans-serif;
+}
+.tab 
+{
+    width: 550px;
+    height: 25px;
+    border: 2px solid rgb(251, 228, 228);
+    padding: 10px;
+    word-spacing: 70px;
+    background-color: rgb(237, 110, 172);
+    text-align: center;
+    top: 5px;
+    left: 1200px;
+    position: relative;
+   
+}
+.name
+{
+    color: rgb(42, 166, 112);
+    font-family: fantasy;
+    text-align: left;
+    position: relative;
+    font-size: 250%;
+    top: -50px;
+}
+
+.details 
+{
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: -70px;
+    left: 50;
+    size: 15px;
+}
+.copyrights
+{
+    width: 1820px;
+    height: 17px;
+    background-color: darkblue;
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+    top: 250px;
+    left:-15px; 
+}
+

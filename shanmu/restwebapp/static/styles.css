@@ -1,0 +1,71 @@
+.container
+{
+    background-image: url(rest2.jpg) ;
+    height: 900px;
+    width: 1800px;
+    background-repeat: no-repeat;
+    padding: 10px;
+    padding-right: 5px;
+    background-size: cover;
+    border: 3px solid black ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family:sans-serif;
+}
+.tab 
+{
+    width: 550px;
+    height: 25px;
+    border: 2px solid rgb(251, 228, 228);
+    padding: 10px;
+    word-spacing: 70px;
+    background-color: rgb(237, 110, 172);
+    text-align: center;
+    top: 5px;
+    left: 1200px;
+    position: relative;
+   
+}
+.name
+{
+    color : rgb(201, 144, 215);
+    font-family:'Times New Roman';
+    position: relative;
+    font-size: 300%;
+    top: -130px;
+}
+.chinese-quote
+{
+    color: black;
+    font-size: 180%;    
+    top: -150px;
+    position: relative;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+.quote
+{
+  color: rgba(105, 15, 34, 0.796);
+    font-size: 250%;
+    top: -150px;
+    position: relative;
+    text-align: center; 
+    font-family:'Lucida Sans'; 
+}
+.img1
+{
+    position: relative;
+    top: -100px;
+    left: 700px;
+}
+.copyrights
+{
+    width: 1820px;
+    height: 17px;
+    background-color: darkblue;
+    position: relative;
+    text-align: center;
+    color: antiquewhite;
+    top: 130px;
+    right: 10px;
+}
