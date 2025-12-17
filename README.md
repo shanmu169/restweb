@@ -187,7 +187,7 @@ restweb2.html
                     <p>Rs.450</p>
                 </div>
             </div>
-         <footer class="copyrights">
+            <footer class="copyrights">
                 &copy; K Shanmuga priya-(25004352)
             </footer>
         </div>
@@ -295,34 +295,33 @@ restweb3.html
                 <a href="restweb3.html">ADMIN</a>
                 <a href="restweb4.html">CONTACT</a> 
             </div>
-        <div class="name">
+            <div class="name">
             <h1>ADMIN</h1>
-        </div>
-        <div class="admin">
-            <div class="admin1">
+            </div>
+            <div class="admin">
+                <div class="admin1">
                 <img src="img.png.jpg"100" height="200">
                 <h1>Shanmuga priya.K</h1>
                 <p >OWNER</p>
-            </div>
-            <div class="admin1">
+                </div>
+                <div class="admin1">
                 <img src="vijay.avif" width="100" height="200">
                 <h1>Josheph Vijay</h1>
                 <p >SENIOR MANAGER</p>
-            </div>
-            <div class="admin1">
+                </div>
+                <div class="admin1">
                 <img src="dhoni.jpg" width="100" height="200">
                 <h1>M.S.Dhoni</h1>
                 <p >Manager</p>
-            </div>
-            <div class="admin1">
+                </div>
+                <div class="admin1">
                 <img src="Venkatesh_Bhat.webp" width="100" height="200">
                 <h1>Venkatesh bhat</h1>
                 <p >CHEF</p>
+                </div>
             </div>
-           
-        </div>
-        <footer class="copyrights">
-                &copy; K Shanmuga priya-(25004352)
+            <footer class="copyrights">
+            &copy; K Shanmuga priya-(25004352)
             </footer>
         </div>
     </body>
@@ -450,7 +449,7 @@ restweb4.html
                 <p>empirestable@gmail.com</p>
                 </div>
             <footer class="copyrights">
-                &copy; K Shanmuga priya-(25004352)
+            &copy; K Shanmuga priya-(25004352)
             </footer>
         </div>
     </body>
